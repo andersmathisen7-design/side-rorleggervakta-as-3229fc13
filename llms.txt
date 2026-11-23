@@ -1,0 +1,15 @@
+# Rørleggervakta AS
+
+- Bransje: Rørleggerarbeid
+- Sted: Oslo
+- E-post: post@roerleggervakta.no
+- Telefon: 23 12 65 50
+
+## Tjenester
+
+- Rørleggerarbeid: Arbeid med rør, vann og avløp, for eksempel på bad, kjøkken og vaskerom.
+- Reparasjon og service: Når noe drypper, tetter seg eller har sluttet å virke, ser vi på feilen og retter den.
+
+## Om nettsiden
+
+Laget av Nettsideferdig (https://nettsideferdig.no/).

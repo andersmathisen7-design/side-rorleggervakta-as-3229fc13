@@ -1,0 +1,25 @@
+{
+  "name": "Rørleggervakta AS",
+  "short_name": "Rørleggervak",
+  "description": "Rørleggervakta AS er rørlegger i Oslo. Vi tar rørleggerarbeid, reparasjoner og service. Ta kontakt for en prat om jobben.",
+  "lang": "nb",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0e6ba8",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
